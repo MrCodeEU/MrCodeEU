@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrCodeEU
 - 👀 I’m interested in Networking, Programming and 3D-printing
-- 🌱 I’m currently learning NodeJs and Css
+- 🌱 I’m currently studying at the JKU Linz
 - 📫 How to reach me reinemic2.0@gmail.com
 - 🌐 My website: https://mrcode.eu
 
