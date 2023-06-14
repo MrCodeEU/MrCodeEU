@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrCodeEU
 - 👀 I’m interested in Networking, Programming and 3D-printing
-- 🌱 I’m currently studying at the JKU Linz
+- 🌱 I’m currently studying CS at the JKU Linz
 - 📫 How to reach me reinemic2.0@gmail.com
-- 🌐 My website: https://mrcode.eu
+- 🌐 My website: https://mljr.dev
 
 <!---
 MrCodeEU/MrCodeEU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
