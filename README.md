@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrCodeEU
-- 👀 I’m interested in Networking, Programming and 3D-printing
+- 👀 I’m interested in Cyber security, Programming and 3D-printing
 - 🌱 I’m currently studying CS at the JKU Linz
 - 📫 How to reach me reinemic2.0@gmail.com
 - 🌐 My website: https://mljr.eu
